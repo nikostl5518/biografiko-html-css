@@ -1,0 +1,29 @@
+body {
+	background-color:	#d7d7c1;
+	background-image: url("jcb_bg.jpg");
+	background-size: cover;
+	font-size: 1.2em;
+	font-family: 'Roboto', sans-serif;
+}
+
+#text-panel {
+	background: rgba(255, 255, 255, 0.75);
+	border: 2px solid black;
+	border-radius: 10px;
+	margin-left: 25px;
+	padding-left: 15px;
+	width: 50%;
+	text-align: left;
+	min-width: 630px;
+}
+
+#main-heading {
+	background: rgba(255, 255, 255, 0.75);
+	border: 2px solid black;
+	border-radius: 10px;
+	margin-left: 25px;
+	width: 50%;
+	text-align: center;
+	min-width: 630px;
+	padding-left: 15px;
+}
